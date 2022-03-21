@@ -7,6 +7,11 @@
 ~/Library/Application Support/VK/themes
 ```
 
+## Linux
+```
+~/.config/VK/themes
+```
+
 ## Windows
 1. Windows + R
 2. Ввести %AppData%
